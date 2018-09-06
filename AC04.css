@@ -1,0 +1,30 @@
+
+
+body{
+    background: white;
+}
+#dados{
+
+    background: yellow;
+
+}
+
+#segundos{
+    background: red;
+}
+input{
+    background-color: rgb(127, 214, 255);
+}
+input:focus{
+    background: white;
+}
+.textarea{
+    background-color: rgb(127, 214, 255);
+    resize: none; 
+    width: 250px;
+    height: 200px;
+}
+.textarea:focus{
+    background: white;
+
+}
